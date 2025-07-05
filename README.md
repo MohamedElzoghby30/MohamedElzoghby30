@@ -1,13 +1,16 @@
 # 👋 Hi there, I'm Mohamed El-Zoghby
 
-I'm a passionate **.NET Backend Developer**, about to graduate in a month with a degree in **Computer Science** from Menoufia University. I specialize in building real-world backend systems using modern .NET technologies, with a strong foundation in software architecture and databases.
+I'm a passionate **.NET Backend Developer**, recently graduated with a degree in **Mathematics & Computer Science** from **Menoufia University**.  
+I specialize in building real-world backend systems using modern **.NET technologies** such as ASP.NET Core, Entity Framework, and Clean Architecture.  
+With a strong foundation in **software architecture**, **API design**, and **relational databases**, I'm focused on delivering scalable, maintainable, and secure applications.
+
 
 ## 🚀 About Me
 
-- 🎓 Final year Computer Science student (Graduating in a month)
+- 🎓 recently graduated with a degree in **Mathematics & Computer Science**
 - 💻 Aspiring **Junior Backend Developer** with hands-on experience in .NET
 - 🧠 Solid understanding of **OOP**, **Database Design**, **ERD**, **Mapping**, and **Relations**
-- 🧩 Skilled in **MVC architecture**, **Entity Framework**, and **Repository Pattern**
+- 🧩 Skilled in **MVC architecture**, **Asp.NetCore API**,**Entity Framework Core**, and **Repository Pattern**
 - 📚 Participated in several trainings including:
   - **DEPI .NET Track** by MCIT
   - **Problem Solving** at Coach Academy
